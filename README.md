@@ -1,4 +1,5 @@
 # github-detect
+- `sh github-network-check.sh`
 ```
 ==========================================
   GitHub 网络连接诊断工具
